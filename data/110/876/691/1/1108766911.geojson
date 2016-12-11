@@ -9,7 +9,7 @@
     "geom:bbox":"-70.26433,43.628895,-70.21362,43.658375",
     "geom:latitude":43.643412,
     "geom:longitude":-70.237459,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":4568220.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 31",
     "uscensus:sldlst":"031",
     "uscensus:statefp":"23",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688769
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486994,
     "wof:geomhash":"1049ded1d0540bf9da95ec687579a13a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688769
+        }
+    ],
     "wof:id":1108766911,
     "wof:lastmodified":1481486994,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688769,
     "wof:repo":"whosonfirst-data-constituency-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],

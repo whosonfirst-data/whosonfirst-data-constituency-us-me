@@ -9,7 +9,7 @@
     "geom:bbox":"-70.552855,44.80833,-69.46766,46.57406",
     "geom:latitude":45.646962,
     "geom:longitude":-70.010748,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":8623594204.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 118",
     "uscensus:sldlst":"118",
     "uscensus:statefp":"23",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688769
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487014,
     "wof:geomhash":"27e60dd3d8d48f532c48c1c01f35248a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688769
+        }
+    ],
     "wof:id":1108767107,
     "wof:lastmodified":1481487014,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688769,
     "wof:repo":"whosonfirst-data-constituency-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],

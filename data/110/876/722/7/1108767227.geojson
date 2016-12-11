@@ -9,7 +9,7 @@
     "geom:bbox":"-70.22426,44.00535,-70.115252,44.167507",
     "geom:latitude":44.091458,
     "geom:longitude":-70.168081,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":88439118.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 21",
     "uscensus:sldust":"021",
     "uscensus:statefp":"23",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688769
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487036,
     "wof:geomhash":"3eed52e1624942c51533f99947e87e17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688769
+        }
+    ],
     "wof:id":1108767227,
     "wof:lastmodified":1481487036,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688769,
     "wof:repo":"whosonfirst-data-constituency-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],

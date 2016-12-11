@@ -9,7 +9,7 @@
     "geom:bbox":"-70.83361,43.093595,-70.70979,43.22748",
     "geom:latitude":43.159952,
     "geom:longitude":-70.781261,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":79324361.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 2",
     "uscensus:sldlst":"002",
     "uscensus:statefp":"23",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688769
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486986,
     "wof:geomhash":"f6c50685750c8596b970e9043f30074d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688769
+        }
+    ],
     "wof:id":1108766845,
     "wof:lastmodified":1481486986,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688769,
     "wof:repo":"whosonfirst-data-constituency-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],

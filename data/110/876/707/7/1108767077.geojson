@@ -9,7 +9,7 @@
     "geom:bbox":"-69.61497,44.70462,-69.281275,45.07347",
     "geom:latitude":44.893981,
     "geom:longitude":-69.447269,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":536500831.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 105",
     "uscensus:sldlst":"105",
     "uscensus:statefp":"23",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688769
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487010,
     "wof:geomhash":"bf1044d4a03ba2bc235b65b53ca00993",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688769
+        }
+    ],
     "wof:id":1108767077,
     "wof:lastmodified":1481487010,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688769,
     "wof:repo":"whosonfirst-data-constituency-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],

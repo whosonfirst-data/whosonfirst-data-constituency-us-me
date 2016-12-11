@@ -9,7 +9,7 @@
     "geom:bbox":"-68.25652,44.26437,-66.88544,45.68921",
     "geom:latitude":44.936051,
     "geom:longitude":-67.637403,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":6900608402.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 6",
     "uscensus:sldust":"006",
     "uscensus:statefp":"23",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688769
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487033,
     "wof:geomhash":"6bb8b8b27d3878108f02756e499080f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688769
+        }
+    ],
     "wof:id":1108767193,
     "wof:lastmodified":1481487033,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688769,
     "wof:repo":"whosonfirst-data-constituency-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],

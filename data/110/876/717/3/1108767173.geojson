@@ -9,7 +9,7 @@
     "geom:bbox":"-68.17968,46.59593,-67.78823,47.15503",
     "geom:latitude":46.903947,
     "geom:longitude":-67.919725,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":918781758.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 148",
     "uscensus:sldlst":"148",
     "uscensus:statefp":"23",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688769
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487026,
     "wof:geomhash":"2dbbf6a65e610b4b1e1a652675bd70ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688769
+        }
+    ],
     "wof:id":1108767173,
     "wof:lastmodified":1481487026,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688769,
     "wof:repo":"whosonfirst-data-constituency-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],

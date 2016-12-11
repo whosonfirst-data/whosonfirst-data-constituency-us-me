@@ -9,7 +9,7 @@
     "geom:bbox":"-68.05653,46.59438,-67.923262,46.77876",
     "geom:latitude":46.700184,
     "geom:longitude":-68.00228,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":138272203.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 147",
     "uscensus:sldlst":"147",
     "uscensus:statefp":"23",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688769
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487026,
     "wof:geomhash":"64100e88c7d912fa91b233382e787916",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688769
+        }
+    ],
     "wof:id":1108767171,
     "wof:lastmodified":1481487026,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688769,
     "wof:repo":"whosonfirst-data-constituency-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],

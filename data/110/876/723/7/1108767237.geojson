@@ -9,7 +9,7 @@
     "geom:bbox":"-70.44543,43.55733,-69.96371,43.95523",
     "geom:latitude":43.764812,
     "geom:longitude":-70.226872,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":317275876.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 25",
     "uscensus:sldust":"025",
     "uscensus:statefp":"23",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688769
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487037,
     "wof:geomhash":"c0fc230e8ec39d463e738c0bba5c48b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688769
+        }
+    ],
     "wof:id":1108767237,
     "wof:lastmodified":1481487037,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688769,
     "wof:repo":"whosonfirst-data-constituency-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],

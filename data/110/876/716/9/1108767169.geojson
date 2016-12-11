@@ -9,7 +9,7 @@
     "geom:bbox":"-68.30076,46.46471,-67.78494,46.93144",
     "geom:latitude":46.704862,
     "geom:longitude":-68.096603,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":891350492.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 146",
     "uscensus:sldlst":"146",
     "uscensus:statefp":"23",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688769
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487025,
     "wof:geomhash":"3534e6ee6a75229ffe68887afbd138b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688769
+        }
+    ],
     "wof:id":1108767169,
     "wof:lastmodified":1481487025,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688769,
     "wof:repo":"whosonfirst-data-constituency-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
